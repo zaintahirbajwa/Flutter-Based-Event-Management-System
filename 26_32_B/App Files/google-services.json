@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "202505745613",
+    "project_id": "emsapp-d816d",
+    "storage_bucket": "emsapp-d816d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202505745613:android:d615771ee8600b0f256584",
+        "android_client_info": {
+          "package_name": "com.example.event_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202505745613-5602e484174rqsiskcdc46ll35926eai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.event_management_system",
+            "certificate_hash": "fcf570cf6a15bfd58ed03166c8ec1a567318055b"
+          }
+        },
+        {
+          "client_id": "202505745613-3dikgo3eao9crfmiq50puok7i6jr6t97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdCO5JPqUbTBE-oga569D_ZoMIj6Ddn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202505745613-3dikgo3eao9crfmiq50puok7i6jr6t97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202505745613-hogqs52jd9uedae9qg3vb8sqojlfccl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
